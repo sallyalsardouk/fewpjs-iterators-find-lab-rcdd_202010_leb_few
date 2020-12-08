@@ -5,4 +5,6 @@ function testFunc() {
 }
 
 
-let superbowlWin=
+let superbowlWin=(record){
+  
+}
