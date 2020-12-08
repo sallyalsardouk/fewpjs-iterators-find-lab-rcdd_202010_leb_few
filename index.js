@@ -5,5 +5,5 @@ function testFunc() {
 }
 
  superbowlWin=(record){
-  let result=record.find(w=>)
+  let r=record.find(=>)
 }
