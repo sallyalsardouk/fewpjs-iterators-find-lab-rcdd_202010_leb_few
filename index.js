@@ -4,7 +4,6 @@ function testFunc() {
   return "hi"
 }
 
-
-let superbowlWin=(record){
-  
+ superbowlWin=(record){
+  let result=record.find()
 }
